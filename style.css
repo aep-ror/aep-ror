@@ -323,7 +323,6 @@ nav ul li a {
 .contact {
     text-decoration: none;
     align-items: center;
-    background-color: green;
 }
 
 .media-sosial {
@@ -333,10 +332,8 @@ nav ul li a {
 }
 
 .img-sosial{
-    margin-left: 280px;
-    background-color: grey;
-    display: flex;
-    margin-top: -50px;
+    margin-left: 290px;
+    margin-top: 50px;
 
 }
 
